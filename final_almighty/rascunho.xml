@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Researcher>
+	<Main_Author>Nuno Laranjeiro</Main_Author>
+	<Institution>Universidade de Coimbra</Institution>
+	<Skills>web services, dependability, robustness, security,
+		interoperability
+	</Skills>
+	<Total_num_cit_autor>92</Total_num_cit_autor>
+	<Total_cit_ano>
+		<Ano>
+			<Id>
+				2013
+			</Id>
+			<Num>
+				23
+			</Num>
+		</Ano>
+		<Ano>
+			<Id>
+				2014
+			</Id>
+			<Num>
+				34
+			</Num>
+		</Ano>
+	</Total_cit_ano>
+	<Publications>
+		<Publication>
+			<Title>Assessing the security of web service frameworks against
+				Denial
+				of Service attacks
+			</Title>
+			<Authors>Rui André Oliveira, Nuno Laranjeiro, Marco Vieira
+			</Authors>
+			<Publication_date>2015/11/30</Publication_date>
+			<Description>
+				Abstract Web services frequently provide
+				business–critical functionality
+				over the Internet,
+				being widely exposed
+				and thus representing an attractive target for
+				security attacks. In
+				particular, Denial of Service (DoS) attacks may inflict severe damage
+				to web
+				service
+				providers, including financial and reputation losses.
+				This way, it is vital
+				that the software
+				supporting services deployment
+				(ie, the web service framework) is able to
+				provide a secure
+				environment, so that the services can be delivered even when facing
+				attacks. In
+				this paper, ...
+			</Description>
+		</Publication>
+		<Publication>
+			<Title>A Composed Approach for Automatic Classification of Web
+				Services Robustness
+			</Title>
+			<Authors>Rui Oliveira, Nuno Laranjeiro, Marco Vieira</Authors>
+			<Publication_date>2011/7/4</Publication_date>
+			<Description>
+				Abstract—Testing Web Services (WS) for robustness is a
+				lengthy and arduous process.
+				After testing a set of services, there is
+				typically a very large
+				quantity and variety of test results to be
+				analyzed, which poses a
+				challenge to the developer that has to
+				manually process all results
+				and identify the outputs that indicate
+				the presence of bugs in the
+				code. Previous research indicates that
+				well-known automatic
+				classification algorithms can be used to automate
+				this step.
+				However, the applicability of such algorithms is also
+				limited, as
+				they are frequently ...
+			</Description>
+			<Citations>
+				<Quantity>2</Quantity>
+				<Citation>
+					<Title>"Web Service classification using Multi-Layer Perceptron
+						optimized with Tabu
+						search." In Advance Computing Conference (IACC), 2015 IEEE
+						International, pp. 290-294. IEEE
+					</Title>
+					<Authors>Syed Mustafa, A., and Kumara Swamy</Authors>
+					<Date>
+						2015
+					</Date>
+				</Citation>
+				<Citation>
+					<Title>Automated Realistic Test Input Generation and Cost
+						Reduction
+						in Service-centric System Testing
+					</Title>
+					<Authors>M Bozkurt </Authors>
+					<Date>
+						2013
+					</Date>
+				</Citation>
+			</Citations>
+		</Publication>
+	</Publications>
+</Researcher>
